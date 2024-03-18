@@ -15,7 +15,7 @@ for (var i = 1; i<=num; i++) {
     }
 
     else if (i % 5 == 0) {
-        item.textContent="FizzBuzz"
+        item.textContent="Buzz"
     }
     else {
        item.textContent=i;
